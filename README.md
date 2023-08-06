@@ -2,7 +2,7 @@
 - 👀 I’m interested in codding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on my mail
-- 📫 How to reach me good
+- 📫 How to reach me ffortune67@gmail.com
 
 <!---
 ffortune67/ffortune67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
